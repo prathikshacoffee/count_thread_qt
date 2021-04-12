@@ -2,7 +2,7 @@
 #include <QApplication>
 
 int main(int argc, char *argv[])
-{
+{   //Main window
     QApplication a(argc, argv);
     MainWindow w;
     w.show();
